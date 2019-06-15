@@ -1,0 +1,35 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata
+*.pydevproject
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+*.launch
+
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Targets
+*.jar
+*.war
+*.ear
+*.class
+
